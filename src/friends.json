@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Darth Vader",
+    "image": "/images/darth-vader.jpeg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Darth Sidious",
+    "image": "/images/darth-sidious.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Yoda",
+    "image": "/images/yoda.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Obi-Wan Kenobi",
+    "image": "/images/obi-wan.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Luke Skywalker",
+    "image": "/images/luke.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Han Solo",
+    "image": "/images/han-solo.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Chewbacca",
+    "image": "/images/chewbacca.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Stormtrooper",
+    "image": "/images/stormtrooper.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Princess Leia",
+    "image": "/images/princess-leia.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Droids",
+    "image": "/images/droids.jpg",
+    "count": 0
+  }
+]
