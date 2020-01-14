@@ -1,5 +1,4 @@
 import React from "react";
-import "./jumbotron.css";
 
 function Jumbotron(props) {
   return (
